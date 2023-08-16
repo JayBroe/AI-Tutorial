@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T09:37:04.742Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="h6g3wqumjDe03wgejVeX" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T21:30:42.463Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="Hhghk_58LMjx790VBBfI" version="21.6.8" type="github">
   <diagram name="Strona-1" id="wPOHInvlTbDzHIjxE4CW">
-    <mxGraphModel dx="1371" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,59 +34,53 @@
         <mxCell id="a_Q1eAjNwYJm86amQNqQ-10" value="&lt;div&gt;now&lt;font color=&quot;#ff0011&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0011&quot;&gt;przysł.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="390" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a_Q1eAjNwYJm86amQNqQ-11" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="410" y="290" width="220" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="a_Q1eAjNwYJm86amQNqQ-12" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="150" y="280" width="140" height="110" as="geometry" />
+          <mxGeometry x="150" y="230" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="a_Q1eAjNwYJm86amQNqQ-13" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="180" y="330" width="94" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a_Q1eAjNwYJm86amQNqQ-14" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="310" y="110" width="490" height="280" as="geometry" />
-        </mxCell>
         <mxCell id="a_Q1eAjNwYJm86amQNqQ-15" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="690" y="330" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a_Q1eAjNwYJm86amQNqQ-16" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="320" y="180" width="320" height="210" as="geometry" />
-        </mxCell>
         <mxCell id="a_Q1eAjNwYJm86amQNqQ-17" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="450" y="330" width="100" height="60" as="geometry" />
+          <mxGeometry x="440" y="330" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a_Q1eAjNwYJm86amQNqQ-18" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="560" y="330" width="60" height="60" as="geometry" />
+          <mxGeometry x="560" y="330" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a_Q1eAjNwYJm86amQNqQ-19" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="30" y="330" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a_Q1eAjNwYJm86amQNqQ-21" value="&lt;font color=&quot;#2111f7&quot;&gt;modyfikator przysłówkowy&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="470" y="80" width="160" height="30" as="geometry" />
+        <mxCell id="065iK8Dz3NO1TFOseReG-1" value="&lt;font color=&quot;#2111f7&quot;&gt;podm. nominalny&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a_Q1eAjNwYJm86amQNqQ-23" value="&lt;font color=&quot;#2111f7&quot;&gt;obiekt bezpośredni&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="140" width="80" height="40" as="geometry" />
+        <mxCell id="065iK8Dz3NO1TFOseReG-2" value="&lt;font color=&quot;#2111f7&quot;&gt;podmiot czasownika wyższego&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="97" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a_Q1eAjNwYJm86amQNqQ-25" value="&lt;font color=&quot;#2111f7&quot;&gt;modyfikator liczbowy&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="290" width="90" height="40" as="geometry" />
+        <mxCell id="065iK8Dz3NO1TFOseReG-3" value="&lt;font color=&quot;#2111f7&quot;&gt;czasownik posiłkowy&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="310" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a_Q1eAjNwYJm86amQNqQ-26" value="&lt;font color=&quot;#2111f7&quot;&gt;przymiotnik dzierżawczy&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="245" width="80" height="70" as="geometry" />
+        <mxCell id="065iK8Dz3NO1TFOseReG-6" value="&lt;font color=&quot;#2111f7&quot;&gt;modyfikator przysłówkowy&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="300" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a_Q1eAjNwYJm86amQNqQ-27" value="&lt;font color=&quot;#2111f7&quot;&gt;podmiot czasownika wyższego&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="240" width="140" height="80" as="geometry" />
+        <mxCell id="065iK8Dz3NO1TFOseReG-8" value="&lt;font color=&quot;#2111f7&quot;&gt;modyfikator liczbowy&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="300" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a_Q1eAjNwYJm86amQNqQ-28" value="&lt;font color=&quot;#2111f7&quot;&gt;podm. nominalny&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="290" width="60" height="40" as="geometry" />
+        <mxCell id="065iK8Dz3NO1TFOseReG-9" value="&lt;font color=&quot;#2111f7&quot;&gt;modyfikator liczbowy&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="300" width="65" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a_Q1eAjNwYJm86amQNqQ-29" value="&lt;font color=&quot;#2111f7&quot;&gt;czasownik posiłkowy&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="194" y="290" width="80" height="40" as="geometry" />
+        <mxCell id="065iK8Dz3NO1TFOseReG-11" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="270" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="a_Q1eAjNwYJm86amQNqQ-30" value="&lt;font color=&quot;#2111f7&quot;&gt;modyfikator przysłówkowy&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="290" width="80" height="40" as="geometry" />
+        <mxCell id="065iK8Dz3NO1TFOseReG-12" value="&lt;font color=&quot;#2111f7&quot;&gt;przymiotnik dzierżawczy&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="195" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_0y2o-h1YbhjQFnWj4-L-1" value="&lt;font color=&quot;#2111f7&quot;&gt;modyfikator liczbowy&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="290" width="90" height="40" as="geometry" />
+        <mxCell id="065iK8Dz3NO1TFOseReG-13" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="500" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="065iK8Dz3NO1TFOseReG-14" value="&lt;font color=&quot;#2111f7&quot;&gt;modyfikator przysłówkowy&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
