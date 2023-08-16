@@ -1,9 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T09:56:13.583Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.8" etag="sNYvjJAE9OByufduMS-P" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T21:30:36.549Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="h-3PtzeXtlCGE230kBCm" version="21.6.8" type="github">
   <diagram name="Strona-1" id="H4Jxd5jB7OnHSIXrGwEM">
-    <mxGraphModel>
+    <mxGraphModel dx="1432" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-1" value="My&lt;div&gt;&lt;font color=&quot;#ff0011&quot;&gt;zaimek&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="390" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-20" value="friends&lt;div&gt;&lt;font color=&quot;#ff0011&quot;&gt;rzecz.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-21" value="hope&lt;div&gt;&lt;font color=&quot;#ff0011&quot;&gt;czas.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-22" value="to&lt;div&gt;&lt;font color=&quot;#ff0011&quot;&gt;łącz.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="390" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-23" value="be&lt;div&gt;&lt;font color=&quot;#ff0011&quot;&gt;pomoc.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="390" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-24" value="nice&lt;div&gt;&lt;font color=&quot;#ff0011&quot;&gt;przym.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="390" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-25" value="workers&lt;div&gt;&lt;font color=&quot;#ff0011&quot;&gt;rzecz.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="390" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-26" value="in&lt;div&gt;&lt;font color=&quot;#ff0011&quot;&gt;przyimek&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="390" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-27" value="years&lt;div&gt;&lt;font color=&quot;#ff0011&quot;&gt;rzecz.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="390" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-28" value="2025-&lt;div&gt;&lt;font color=&quot;#ff0011&quot;&gt;liczebik&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="390" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-31" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="20" y="330" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-32" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-33" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-34" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-35" value="&lt;font color=&quot;#2111f7&quot;&gt;przymiotnik dzierżawczy&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="28.75" y="310" width="72.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-37" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-38" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="730" y="330" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-39" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="640" y="330" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-40" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="550" y="330" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-41" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-43" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="390" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-45" value="&lt;font color=&quot;#2111f7&quot;&gt;podmiot nominalny&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="310" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-46" value="&lt;font color=&quot;#2111f7&quot;&gt;podmiot czasownika nadrzędnego&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="240" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-47" value="&lt;font color=&quot;#2111f7&quot;&gt;czasownik pomocniczy&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-48" value="&lt;font color=&quot;#2111f7&quot;&gt;przyimek&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="180" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-49" value="&lt;font color=&quot;#2111f7&quot;&gt;atrybut&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="250" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-50" value="&lt;font color=&quot;#2111f7&quot;&gt;czasownik posiłkowy&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="310" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-51" value="&lt;font color=&quot;#2111f7&quot;&gt;modyfikator liczbowy&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="310" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-52" value="&lt;font color=&quot;#2111f7&quot;&gt;modyfikator liczbowy&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="647.5" y="310" width="65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-53" value="&lt;font color=&quot;#2111f7&quot;&gt;przyimek&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="310" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk9qtfOCl89otSJAWHeL-55" value="2030&lt;div&gt;&lt;font color=&quot;#ff0011&quot;&gt;liczebnik&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="390" width="60" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
